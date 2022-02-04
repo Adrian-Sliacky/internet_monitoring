@@ -12,7 +12,6 @@ servers = [
   "google.com",
   "1.1.1.1",
   "discord.com",
-  "speedtest.detronics.sk"
   ]
 
 file_header = ['time', 'server', 'latency']
